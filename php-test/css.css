@@ -1,0 +1,16 @@
+
+.tab, .trl, td{
+	height:200px;
+	box-sizing:border-box;
+	background:-green;
+}
+.trl, {
+	width:80%;
+/*	height:100%;
+	height: 200px; */
+}
+/*img{
+	width:200px;
+}
+
+

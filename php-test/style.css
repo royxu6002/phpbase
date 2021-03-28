@@ -1,0 +1,19 @@
+.PI_table{
+	font-family: arial;
+    font-weight: normal;
+<!--
+    border-width; 1px
+    border-style; //border-style:dotted solid double dashed;
+    border-color:
+    -->
+}
+.PI_table_head {
+	font-size: 26px;
+    color: #255e95;
+    border-bottom:1px #CCCCCC;
+    text-align: center;
+}
+td {
+vertical-align: text-top;
+valign:top;
+}
